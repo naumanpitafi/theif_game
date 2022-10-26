@@ -1,11 +1,17 @@
-## ⚠️ This repository is no longer the home of the flame trex
+# Flutter THEFT RUN GAME
 
-This has been moved as an example in the Flame repository: https://github.com/flame-engine/flame/tree/main/examples/lib/stories/games/trex
+This is an theft run game just like t-rex game on google chrome.
 
 
-# Trex game Flutter edition
+# THEFT RUN Game Flutter Edition
 
-![https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif](https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif)
+# Screenshot 1
+![s](https://user-images.githubusercontent.com/21080719/197985921-974c63ff-10fa-4676-b952-e3958bb123c4.png)
+
+
+# Screenshot 2
+![d](https://user-images.githubusercontent.com/21080719/197986016-17da9566-2b4b-470d-a676-f5c0f7017878.png)
+
 
 The joy of our offline hours recreated with [Flutter](https://github.com/flutter/flutter) and [Flame](https://github.com/luanpotter/flame)
 
@@ -13,4 +19,5 @@ The joy of our offline hours recreated with [Flutter](https://github.com/flutter
 # Article
 
 https://medium.com/@renancaraujo/creating-the-t-rex-game-with-flutter-and-flame-6d01add1ad5b
-# theft-Run
+
+# Theft-Run GAME Flame X Flutter
